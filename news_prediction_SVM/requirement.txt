@@ -1,0 +1,7 @@
+# Project requirements
+numpy==1.26.3
+pandas==2.2.0
+scikit-learn==1.4.0
+streamlit==1.30.0
+joblib==1.2.0
+nltk==3.6.3
